@@ -26,6 +26,9 @@ disease control and testing strategies on a global scale.
 * matplotlib
 * sklearn
 
+## Downloading the data
+The data for our simulations come from  (Barak et al., 2021) and (Jones et al., 2021). You can also download the data from our Google Drive folder: https://drive.google.com/drive/folders/1Xn7iAHW9alDlbCaaNRNq-EBdQ5Q9cr6J?usp=sharing
+
 ## Notebooks
 
 This repository contains three different notebooks:
